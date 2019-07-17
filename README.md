@@ -11,7 +11,7 @@ go常用库
 
 ### 消息队列
 > kafka
-
+https://github.com/Shopify/sarama
 
 ### 缓存
 > redis
@@ -24,4 +24,6 @@ go常用库
 
 [https://github.com/joho/godotenv](https://github.com/joho/godotenv)
 
-
+### 文档
+> excel
+[https://github.com/360EntSecGroup-Skylar/excelize](https://github.com/360EntSecGroup-Skylar/excelize)
